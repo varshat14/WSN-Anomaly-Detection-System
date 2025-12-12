@@ -1,0 +1,26 @@
+# Core dependencies
+numpy
+pandas
+scikit-learn
+tensorflow
+fastapi==0.100.0
+uvicorn==0.23.1
+pydantic
+streamlit==1.24.1
+
+# Data processing and visualization
+matplotlib==3.7.2
+seaborn
+tsfresh
+plotly
+
+# Simulation
+scipy==1.11.1
+
+# API and testing
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Jupyter notebooks
+jupyter==1.0.0
+ipykernel==6.24.0
